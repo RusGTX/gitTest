@@ -1,6 +1,13 @@
 body{
-    background-color: yellow;
+    background-color: grey;
 }
 p{
     color: black;
+    font-size: 48px;
+    font-weight: bolder;
+}
+h2{
+    font-size: 52px;
+    color: green;
+    font-weight: 900;
 }
